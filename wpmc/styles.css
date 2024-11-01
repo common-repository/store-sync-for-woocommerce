@@ -1,0 +1,67 @@
+.form-meta-box {
+    width: 100%;
+}
+
+.form-meta-box input,textarea {
+    width: 100%;
+}
+
+div.form2bc{
+	display:flex;
+}
+
+div.form3bc{
+	display:flex;
+}
+
+div.form2bc input {
+    width: 350px;
+    margin-right: 30px;
+}
+
+div.form3bc input {
+    width: 230px;
+    margin-right: 20px;
+}
+
+.wpmc-onetomany-table:not(:first-of-type)
+{
+    margin-top: 10px;
+}
+
+.wpmc-line-remove {
+    background: url(../wpmc/sprite.png) -66px -116px no-repeat #fff;
+    display: block;
+    height: 18px;
+    width: 18px;
+    border-radius: 9px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.3);
+}
+
+.wpmc-onetomany-container-table {
+    padding-bottom: 5px;
+}
+
+.checkboxes {
+    margin-left: 20px;
+}
+
+.checkboxes label {
+    padding: 3px;
+}
+
+.form-meta-box input, textarea {
+    width: auto;
+}
+
+.entity-list-noitems {
+    font-size: 22px;
+}
+
+.entity-create-first {
+    font-size: 18px;
+}
+
+.align-right {
+    float: right;
+}
